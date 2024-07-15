@@ -1,6 +1,5 @@
 # app.py
 # This is a test commit
-# this is fork testing
 def add(a, b):
     return a + b
 
